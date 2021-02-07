@@ -1,10 +1,11 @@
 package main
+
 import (
 	"fmt"
-	"project/main/utils"
+	person "project/main/utils"
 )
 
-func main(){
+func main() {
 	fmt.Println(person.PersonAge)
 	//fmt.Println(utils.personName)
 
